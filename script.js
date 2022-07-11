@@ -1,13 +1,10 @@
 
-
-
-
 var n = document.getElementById("n");
 var roll = document.getElementById("roll");
 var date = document.getElementById("date");
 
-n.innerHTML = "Rahul";
-roll.innerHTML = "201500542";
+n.innerHTML = "Sourabh";
+roll.innerHTML = "201500703";
 
 var day = new Date();
 var d = day.getDate();
