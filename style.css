@@ -79,3 +79,19 @@ nav ul li a {
     background-color: rgb(232, 234, 234);
     border-radius: 5px;
 }
+
+.big{
+    display: flex;
+    /* justify-content: space-around; */
+}
+.big p{
+    font-size: 70px;
+    font-weight: bold;
+    color: rgb(66, 66, 138);
+}
+.imag img{
+    margin-top: 0;
+    margin-left: 100px;
+    width: 500px;
+    height: 500px;
+}
