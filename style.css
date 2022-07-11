@@ -79,6 +79,9 @@ nav ul li a {
     background-color: rgb(232, 234, 234);
     border-radius: 5px;
 }
+#off2{
+    color: red;
+}
 
 .big{
     display: flex;
