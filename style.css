@@ -85,6 +85,7 @@ nav ul li a {
 }
 
 .big{
+    margin-top: 20px;
     display: flex;
     /* justify-content: space-around; */
 }
@@ -95,6 +96,7 @@ nav ul li a {
 }
 
 .big #gold{
+    margin-top: 50px;
     color: rgb(173, 168, 168);
 }
 .imag img{
@@ -103,3 +105,15 @@ nav ul li a {
     width: 500px;
     height: 500px;
 }
+
+footer{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+footer .ftr{
+    font-size: 30px;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
