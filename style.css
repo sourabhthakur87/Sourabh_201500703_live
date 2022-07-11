@@ -87,13 +87,17 @@ nav ul li a {
     display: flex;
     /* justify-content: space-around; */
 }
-.big p{
-    font-size: 70px;
+.big #digital{
+    font-size: 50px;
     font-weight: bold;
     color: rgb(66, 66, 138);
 }
+
+.big #gold{
+    color: rgb(173, 168, 168);
+}
 .imag img{
-    margin-top: 0;
+    margin-top: -120px;
     margin-left: 100px;
     width: 500px;
     height: 500px;
